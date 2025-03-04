@@ -3,6 +3,7 @@ from miio import Yeelight
 from datetime import datetime, timedelta
 from sys import argv
 
+
 # If arguments was passed to this script, then we take ip from them. Otherwise take specified values
 if len(argv)>1:
     ip = argv[1]
