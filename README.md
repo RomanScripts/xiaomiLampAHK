@@ -9,9 +9,9 @@ Ready to use script to control Xiaomi Lamp with hotkeys using Autohotkey and Pyt
 
 Done!
 
-Ctrl + Win + Q - toggle
-Ctrl + Win + W - regular light
-Ctrl + Win + E - fast colors rotation  
+Ctrl + Win + Q - toggle  
+Ctrl + Win + W - regular light  
+Ctrl + Win + E - fast colors rotation    
 Ctrl + Win + R - slow colors rotation  
 Ctrl + Win + T - candle\torch imitation  
 Ctrl + Win + Y - special mode. more keyboard/mouse presses = more brightness. Starts to fade out in 5 seconds of inactivity.  
