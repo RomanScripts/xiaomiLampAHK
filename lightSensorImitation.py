@@ -76,3 +76,4 @@ while True:
     except Exception as e:
         print(f"Error adjusting brightness: {e}")
     time.sleep(300)  # Check every 5 minutes
+
