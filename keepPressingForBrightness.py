@@ -111,3 +111,4 @@ monitor_thread.start()
 with MouseListener(on_click=on_click), KeyboardListener(on_press=on_press):
     while True:
         time.sleep(1)  # Prevents script from exiting
+
