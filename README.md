@@ -6,7 +6,7 @@ How to control your Xiaomi Lamp with keyboard hotkeys using Autohotkey and Pytho
 
 Done!
 
-![Image](https://github.com/user-attachments/assets/c8d49c5f-6e79-4ec0-9098-dd1edfa09782)
+![Image](https://github.com/user-attachments/assets/14c4da6d-7c3d-4cb5-b420-231370145032)
 
 Ctrl + Win + E - fast colors rotation
 Ctrl + Win + R - slow colors rotation
