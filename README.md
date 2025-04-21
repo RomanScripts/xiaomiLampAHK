@@ -13,7 +13,7 @@ Ctrl + Win + Q - toggle
 Ctrl + Win + W - regular light  
 Ctrl + Win + E - fast colors rotation    
 Ctrl + Win + R - slow colors rotation  
-Ctrl + Win + T - candle\torch imitation  
-Ctrl + Win + Y - special mode. more keyboard/mouse presses = more brightness. Starts to fade out in 5 seconds of inactivity.  
+Ctrl + Win + T - candle imitation  
+Ctrl + Win + Y - special mode. more keyboard/mouse presses = more brightness. Starts to fade out in 5 seconds of inactivity.  (runs keepPressingForBrightness.py)
 
-Also there is optional lightSensorImitation.py file that make bulb light brighter the more darker outside based on mid sunrise/sunset time for your city. You can get those values for your city by asking ai chat bot.
+Ctrl + Win + U - make bulb light brighter the more darker outside based on mid sunrise/sunset time for your city. You can get those values for your city by asking ai chat bot. (runs lightSensorImitation.py)
